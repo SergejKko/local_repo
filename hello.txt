@@ -1,4 +1,4 @@
-hello from local repo
+hello from remote repo
 bye
 goodbye
 hello
